@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quotation-for-vendor/static/css/main.756af292.css",
+    "main.js": "/Quotation-for-vendor/static/js/main.b6ba7299.js",
+    "static/js/787.b2eaef3d.chunk.js": "/Quotation-for-vendor/static/js/787.b2eaef3d.chunk.js",
+    "index.html": "/Quotation-for-vendor/index.html",
+    "main.756af292.css.map": "/Quotation-for-vendor/static/css/main.756af292.css.map",
+    "main.b6ba7299.js.map": "/Quotation-for-vendor/static/js/main.b6ba7299.js.map",
+    "787.b2eaef3d.chunk.js.map": "/Quotation-for-vendor/static/js/787.b2eaef3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.b6ba7299.js"
+  ]
+}
